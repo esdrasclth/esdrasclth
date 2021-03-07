@@ -4,7 +4,7 @@
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=esdrasclth.esdrasclth" /> 
 
-# Hi there, I'm Esdras
+# Hi there, I'm Esdra's Clother
 
 I’m currently learning web and mobile development with technologies like JavaScript, ES6, React/React Native, NodeJS, Express, MongoDB, etc.
 
