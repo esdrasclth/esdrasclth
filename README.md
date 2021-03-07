@@ -1,4 +1,4 @@
-:computer: _Learner of Fullstack in JavaScript 🔥 Living in Honduras 🇭🇳
+:computer: Learner of Fullstack in JavaScript 🔥 Living in Honduras 🇭🇳
 
 <img align="right" width="400" height="400" src="https://github.com/esdrasclth/esdrasclth/blob/main/profile-image.png?raw=true">
 
@@ -17,12 +17,11 @@ I'm passionate about Software Development, learning web and mobile development w
 - 💻 Web Development Enthusiast
 - 📊 Coming Soon learner in Machine Learning
 
-## Contact me :mailbox_with_no_mail:
+## Contact me
 
-[![Twitter Badge](https://img.shields.io/badge/-@sebg96-black?style=flat-square&logo=twitter&link=https://twitter.com/sebg96)](https://twitter.com/sebg96)
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastián_García-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/) 
-[![Reddit URL](https://img.shields.io/badge/-ImLotus-black?style=flat-square&logo=reddit&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.reddit.com/user/ImLotus)
-[![Outlook](https://img.shields.io/badge/-sgarcia710@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:sgarcia710@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@esdrasclth-black?style=flat-square&logo=twitter&link=https://twitter.com/esdrasclth)](https://twitter.com/esdrasclth)
+[![Linkedin Badge](https://img.shields.io/badge/-Esdras_Clother-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/esdrasclth/)](https://www.linkedin.com/in/esdrasclth/) 
+[![Outlook](https://img.shields.io/badge/-esdras.clother@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:esdras.clother@outlook.com)
 
 
 ### My Tech Stack
