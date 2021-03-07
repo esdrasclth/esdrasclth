@@ -24,7 +24,7 @@ I'm passionate about Software Development, learning web and mobile development w
 [![Outlook](https://img.shields.io/badge/-esdras.clother@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:esdras.clother@outlook.com)
 
 
-### My Tech Stack
+## My Tech Stack
 
 #### Languages
 
