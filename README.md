@@ -4,18 +4,18 @@
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=esdrasclth.esdrasclth" /> 
 
-# Hi there, I'm Esdra's Clother
+# Hi there, I'm Esdras
 
-I’m currently learning web and mobile development with technologies like JavaScript, ES6, React/React Native, NodeJS, Express, MongoDB, etc.
+I'm passionate about Software Development, learning web and mobile development with technologies like JavaScript, ES6, React/React Native, NodeJS, Express, MongoDB, etc.
 
 
 ## About me 
 
-🎮 Gaming | ✈️ Travel | 📚 Learning
+✝️ Christ | 👨‍👩‍👦 Family | ✈️ Travel | 📚 Learning
 
-- :earth_americas: I'm from Cali - Colombia
-- :iphone: Apple Development Enthusiast
-- 📚 I’m currently learning everything about Svelte and SwiftUI.
+- 🌎 I'm from San Pedro Sula - Honduras
+- 💻 Web Development Enthusiast
+- 📊 Coming Soon learner in Machine Learning
 
 ## Contact me :mailbox_with_no_mail:
 
