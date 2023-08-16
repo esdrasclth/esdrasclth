@@ -2,8 +2,6 @@
 
 <img align="right" width="400" height="400" src="https://github.com/esdrasclth/esdrasclth/blob/main/profile-image.png?raw=true">
 
-<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=esdrasclth.esdrasclth" /> 
-
 # Hi there, I'm Esdras
 
 I'm passionate about Software Development, learning web and mobile development with technologies like JavaScript, ES6, React/React Native, NodeJS, Express, MongoDB, etc.
