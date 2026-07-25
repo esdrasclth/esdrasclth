@@ -1,58 +1,80 @@
-:computer: Learner of Fullstack in JavaScript 🔥 Living in Honduras 🇭🇳
+<img align="right" width="280" src="https://github.com/esdrasclth/esdrasclth/blob/main/profile-image.png?raw=true">
 
-<img align="right" width="400" height="400" src="https://github.com/esdrasclth/esdrasclth/blob/main/profile-image.png?raw=true">
+# Esdras Clother
 
-# Hi there, I'm Esdras
+**Fullstack Software Engineer** — Web & Mobile Applications · San Pedro Sula, Honduras 🇭🇳
 
-I'm passionate about Software Development, learning web and mobile development with technologies like JavaScript, ES6, React/React Native, NodeJS, Express, MongoDB, etc.
+I develop business applications end to end: warehouse management, invoicing, event logistics and financial systems. My work centers on **TypeScript**, with **Next.js** and **React** on the frontend, **Node.js / NestJS** and **PostgreSQL** on the backend, and **React Native** for mobile.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esdras_Clother-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esdrasclth/)
+[![X](https://img.shields.io/badge/X-@esdrasclth-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/esdrasclth)
+[![Email](https://img.shields.io/badge/Email-esdras.clother@outlook.com-0078D4?style=flat-square&logo=maildotru&logoColor=white)](mailto:esdras.clother@outlook.com)
 
-## About me 
+---
 
-✝️ Christ | 👨‍👩‍👦 Family | ✈️ Travel | 📚 Learning
+## 🚀 What I'm building
 
-- 🌎 I'm from San Pedro Sula - Honduras
-- 💻 Web Development Enthusiast
-- 📊 Coming Soon learner in Machine Learning
+| Project | What it does | Stack |
+| :--- | :--- | :--- |
+| **[Warefy](https://github.com/esdrasclth/warefy)** | Warehouse & inventory management for manufacturing — real-time stock control and low-stock alerts, replacing spreadsheets and legacy ERPs | Next.js 15 · TypeScript · PostgreSQL |
+| **[EventOS](https://github.com/esdrasclth/EventOS)** | Installable PWA for furniture rental logistics — orders, scheduling, Excel/PDF export and offline support | React 19 · Vite · Firebase · Workbox |
+| **[FinanzasPro](https://github.com/esdrasclth/FinanzasPro)** | Personal finance tracker with per-user data isolation and custom JWT auth | Next.js · Prisma · PostgreSQL · Docker |
+| **[Zion Facturación](https://github.com/esdrasclth/zionfacturacion)** | Invoicing system with PDF generation, containerized for deployment | Next.js · TypeScript · Prisma · Docker |
+| **[Ordeon](https://github.com/esdrasclth/ordeon-web)** | Order management platform with a companion mobile app | Next.js · PostgreSQL · React Native · TanStack Query |
 
-## Contact me
+## 🛠️ Tech Stack
 
-[![Twitter Badge](https://img.shields.io/badge/-@esdrasclth-black?style=flat-square&logo=twitter&link=https://twitter.com/esdrasclth)](https://twitter.com/esdrasclth)
-[![Linkedin Badge](https://img.shields.io/badge/-Esdras_Clother-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/esdrasclth/)](https://www.linkedin.com/in/esdrasclth/) 
-[![Outlook](https://img.shields.io/badge/-esdras.clother@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:esdras.clother@outlook.com)
+**Languages**
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## My Tech Stack
+**Frontend**
 
-#### Languages
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![PWA](https://img.shields.io/badge/-PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+**Mobile**
 
-#### Technologies
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
-![Socket.io](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-#### Cloud
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+**Backend & Data**
 
-#### Databases
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![Strapi](https://img.shields.io/badge/-Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white)
 
-#### Tools and Others
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-black?style=flat-square&logo=Visual-Studio-Code)
-![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=Windows)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+**Tooling & Deploy**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=esdrasclth&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Esdras' GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esdrasclth&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+
+## 🤝 About me
+
+✝️ Christ | 👨‍👩‍👦 Family | ✈️ Travel | 📚 Always learning
+
+Currently focused on **Warefy**, bringing modern inventory management to manufacturing companies in Honduras.
+
+📫 Reach me at **[esdras.clother@outlook.com](mailto:esdras.clother@outlook.com)** — I'm always open to talking about interesting projects.
