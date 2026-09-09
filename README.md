@@ -18,7 +18,7 @@ I develop business applications end to end: warehouse management, invoicing, eve
 | :--- | :--- | :--- |
 | **[Warefy](https://github.com/esdrasclth/warefy)** | Warehouse & inventory management for manufacturing — real-time stock control and low-stock alerts, replacing spreadsheets and legacy ERPs | Next.js 15 · TypeScript · PostgreSQL |
 | **[EventOS](https://github.com/esdrasclth/EventOS)** | Installable PWA for furniture rental logistics — orders, scheduling, Excel/PDF export and offline support | React 19 · Vite · Firebase · Workbox |
-| **[FinanzasPro](https://github.com/esdrasclth/FinanzasPro)** | Personal finance tracker with per-user data isolation and custom JWT auth | Next.js · Prisma · PostgreSQL · Docker |
+| **[Caudal](https://github.com/esdrasclth/caudal)** | Personal finance app — budgets with rollover, multi-currency wallets, debts, subscriptions and shared group expenses | Next.js · Prisma · PostgreSQL · Docker |
 | **[Zion Facturación](https://github.com/esdrasclth/zionfacturacion)** | Invoicing system with PDF generation, containerized for deployment | Next.js · TypeScript · Prisma · Docker |
 | **[Ordeon](https://github.com/esdrasclth/ordeon-web)** | Order management platform with a companion mobile app | Next.js · PostgreSQL · React Native · TanStack Query |
 
